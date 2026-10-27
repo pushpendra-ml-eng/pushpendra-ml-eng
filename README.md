@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pushpendra 👋
 
-<!--
-**pushpendra-ml-eng/pushpendra-ml-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI/ML) student at Poornima University, Jaipur.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning Machine Learning with Python
+- Practicing DSA in Python
+- Building a Face Recognition Attendance System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python | NumPy | Pandas | Scikit-learn | OpenCV | DSA
+
+## Connect
+LinkedIn: [link baad mein]
